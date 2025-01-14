@@ -43,7 +43,7 @@ weather-dashboard/
 ## Setup Instructions
 
 1. Clone the repository:
- `git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git`
+ `git clone https://github.com/Vivixell/weather-dashboard-demo.git`
 
 _**Note: You will need to manually delete the Images folder, as it contains my final results and is not part of the project structure.**_
 
