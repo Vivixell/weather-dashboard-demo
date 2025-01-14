@@ -37,7 +37,7 @@ weather-dashboard/
   ├── .env
   ├── .gitignore
   ├── requirements.txt
-  
+
   ```
 
 ## Setup Instructions
@@ -65,10 +65,10 @@ AWS_BUCKET_NAME=your_bucket_name
 `python src/weather_dashboard.py`
 
 Below is a screenshot of the Python script running from my terminal:
-![result from terminal](images/codeouput.png)
+![result from terminal](Images/codeouput.png)
 
 Next, I verified the bucket creation using the AWS Console:
-![Bucket creation verification](images/bucketcreation.png)
+![Bucket creation verification](Images/bucketcreation.png)
 
 Lastly, here are the images verifying our weather JSON data stored in the bucket:
 ![weather data verification](Images/weatherresult1.png)
