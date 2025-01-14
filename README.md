@@ -27,6 +27,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 
 ## Project Structure
 
+```
 weather-dashboard/
   ├── src/
   │   ├── \_\_init__.py
@@ -36,6 +37,8 @@ weather-dashboard/
   ├── .env
   ├── .gitignore
   ├── requirements.txt
+  
+  ```
 
 ## Setup Instructions
 
