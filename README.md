@@ -10,6 +10,16 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 - Python Development
 - Error Handling
 - Environment Management
+
+## Prerequisites
+
+Before you begin, ensure that you have the following:
+- An account with [OpenWeather](https://openweathermap.org/api) and your API key.
+- An [AWS account ](aws.amazon.com) with access key and secret key for configuring your AWS CLI.
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) installed on your machine.
+- [Python](https://www.python.org/downloads/) 3.x installed on your system.
+
+
 ## Features
 - Fetches real-time weather data for multiple cities
 - Displays temperature (°F), humidity, and weather conditions
