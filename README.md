@@ -31,16 +31,16 @@ Before you begin, ensure that you have the following:
 - **Cloud Provider:** AWS (S3)
 - **External API:** OpenWeather API
 - **Dependencies:** 
-  boto3 (AWS SDK)
-  python-dotenv
-  requests
+  - boto3 (AWS SDK)
+  - python-dotenv
+  - requests
 
 ## Project Structure
 
 ```
 weather-dashboard/
   ├── src/
-  │   ├── \_\_init__.py
+  │   ├── __init__.py
   │   └── weather_dashboard.py
   ├── tests/
   ├── data/
